@@ -1,0 +1,38 @@
+/* 
+    Created on : Feb 28, 2023, 4:33:56 PM
+    Author     : hp
+*/
+.root{
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-vgap: 10px;
+    -fx-background-color: #6096B4;
+}
+
+#hbox{
+    -fx-padding: 5px;
+    -fx-alignment: center;
+    -fx-background-color: #BDCDD6;
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+
+#checkBoxHbox{
+    -fx-padding: 10px;
+    -fx-alignment: center;
+    -fx-background-color: #93BFCF ;
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+
+#ageSlider{
+    -fx-padding: 10px;
+    -fx-alignment: center;
+    -fx-background-color: #EEE9DA;
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
+
+.text-area{
+    -fx-padding: 5px;
+}
